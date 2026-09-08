@@ -1,0 +1,47 @@
+[1mdiff --git a/css/style.css b/css/style.css[m
+[1mindex 9310af7..6628398 100644[m
+[1m--- a/css/style.css[m
+[1m+++ b/css/style.css[m
+[36m@@ -6,10 +6,4 @@[m
+ .titulo{[m
+     text-align: center;[m
+     color: blue;[m
+[31m-}[m
+[31m-[m
+[31m-.tablaPrincipal{[m
+[31m-    margin: auto;[m
+[31m-    margin-top: 200px;[m
+[31m-    color: grey (98, 97, 97);[m
+ }[m
+\ No newline at end of file[m
+[1mdiff --git a/img/cvu.jpg b/img/cvu.jpg[m
+[1mdeleted file mode 100644[m
+[1mindex 651b902..0000000[m
+Binary files a/img/cvu.jpg and /dev/null differ
+[1mdiff --git a/img/identidad.jpg b/img/identidad.jpg[m
+[1mdeleted file mode 100644[m
+[1mindex 38146f1..0000000[m
+Binary files a/img/identidad.jpg and /dev/null differ
+[1mdiff --git a/img/portafolio,jpg.webp b/img/portafolio,jpg.webp[m
+[1mdeleted file mode 100644[m
+[1mindex bfbeac4..0000000[m
+Binary files a/img/portafolio,jpg.webp and /dev/null differ
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 0b38e10..4a40b49 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -24,13 +24,5 @@[m
+ <div class="titulo">[m
+ <h1>Sitio oficial de Gerardo Mendez de Dios</h1>[m
+ </div>[m
+[31m-<div class="content"[m
+[31m-<table class="tablaPrincipal">[m
+[31m-    <tr>[m
+[31m-        <td><a href="identidad.html"><img src="img/identidad.jpg"></a></td>[m
+[31m-        <td><a href="identidad.html"><img src="img/portafolio,jpg.webp"></a></td>[m
+[31m-        <td><a href="cvu.html"><img src="img/cvu.jpg"</a></td>[m
+[31m-    </tr>[m
+[31m-</table>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
